@@ -18,3 +18,5 @@ For example:
     php download.php 5 10
 
 will download the pages 5 to 10 into the images directory.
+
+All credits go to Christoph Rosse (https://github.com/gries) who made this script, i just modified it to work nowdays.
