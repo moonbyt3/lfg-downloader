@@ -1,0 +1,12 @@
+{
+    "name": "gries/lfgdown",
+    "require": {
+        "symfony/dom-crawler": "2.4.*"
+    },
+    "authors": [
+        {
+            "name": "gries",
+            "email": "christoph@rosse.at"
+        }
+    ]
+}
